@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>update needit records</key>
+        <language>en</language>
+        <message>Update NeedIt Records</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 11:46:19</sys_created_on>
+        <sys_id>3aae1b9597d4211077df9300f153af49</sys_id>
+        <sys_name>update needit records</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_932753_needit_vi">0b7513599794211077df9300f153af51</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">0b7513599794211077df9300f153af51</sys_scope>
+        <sys_update_name>sys_ui_message_3aae1b9597d4211077df9300f153af49</sys_update_name>
+    </sys_ui_message>
+</record_update>
